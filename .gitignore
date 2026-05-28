@@ -21,6 +21,7 @@ ENV/
 
 # Model and dataset artifacts
 saved_models/
+!saved_models/career_streamlit_bundle.pkl
 
 # OS files
 .DS_Store
