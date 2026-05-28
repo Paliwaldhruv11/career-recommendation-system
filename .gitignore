@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# IDE/editor folders
+.vscode/
+
+# Model and dataset artifacts
+saved_models/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
